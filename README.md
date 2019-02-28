@@ -1,10 +1,10 @@
 # ClientSocket
 Socket方式实现客户端通讯
 
-##前言
+## 前言
 Socket网络编程在任何一门编程语言中都很重要,而且socket底层是纯C语言,跨平台,了解并熟悉底层交互是提高自己编程水平重要的一步.环环在此稍加总结,如果有童鞋要面试还能用的上,结尾附有demo案例(IOS).
 
-##正文
+## 正文
 - 首先明确Socket在网络模型中哪里:是应用层与传输层之间的桥梁
 ![image](http://upload-images.jianshu.io/upload_images/3222021-2cc70f7644cfa160.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 - 回顾一下网络模型: OSI七层网络模型:
